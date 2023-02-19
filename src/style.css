@@ -1,0 +1,17 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    background-color: rgba(58, 106, 189, 0.886);
+    text-align: center;
+}
+    .section1{
+background-image: url(/img/pexels-gökhan-yetimova-14466346.jpg);
+    }
+
+    h1{
+        background-color: rgba(123, 191, 233, 0.902);
+    }
